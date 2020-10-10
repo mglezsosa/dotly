@@ -1,1 +1,1 @@
-export PATH=$DOTLY_PATH/bin:$PATH:$HOME/bin:$DOTFILES_PATH/bin
+export PATH=$DOTFILES_PATH/bin:$DOTLY_PATH/bin:$HOME/bin:$PATH
